@@ -1,0 +1,8 @@
+#myCanvas {
+  background: #1f2a32;
+  border: 1px solid black;
+}
+body {
+  margin: 0;
+  overflow: hidden;
+}
